@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WhispNote</string>
+    <string name="new_note">New Note</string>
+    <string name="write_thoughts">Write your thoughts...</string>
+    <string name="make_private">Make this note private</string>
+    <string name="save">Save</string>
+    <string name="view_private_notes">View Private Notes</string>
+    <string name="private_notes">Private Notes</string>
+    <string name="breathe_in">Breathe In</string>
+    <string name="hold">Hold</string>
+    <string name="breathe_out">Breathe Out</string>
+</resources>
